@@ -4,7 +4,6 @@
 
 Aegis is a secure, interactive command-line password manager built with Python. It allows users to store, manage, and retrieve their sensitive credentials in a locally stored, fully encrypted vault. The application is protected by a single master password and features a user-friendly, menu-driven interface.
 
-This project was created as a final project for CS50P.
 
 #### Features
 
