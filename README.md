@@ -59,7 +59,7 @@ Once the dependencies are installed, running the application is simple.
 1. **Run the main script:**
     
     ```
-    python project.py
+    python main.py
     ```
     
 2. **First-Time Setup:** If this is your first time running the application, it will guide you through the process of creating a secure master password.
