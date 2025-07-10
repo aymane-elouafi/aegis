@@ -22,7 +22,7 @@ def main() :
             show_main_menu_loop(data,password)
         else:
             # Login failed.
-            print_error("Incorrect master password.")
+            print_error("Incorrect master password or data is corrupted .")
     else:
         # "Sign Up"
         print_info("Welcome to Aegis! Let's set up your secure vault.")
